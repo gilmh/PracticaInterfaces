@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/acceso a datos/mysql-connector-java-5.1.27-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/desarrollo de interfaces/jdom-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/desarrollo de interfaces/swixml-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/desarrollo de interfaces/tema 2/JasperReport/JaresCelestialesFuncionales/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/desarrollo de interfaces/tema 2/JasperReport/JaresCelestialesFuncionales/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/desarrollo de interfaces/tema 2/JasperReport/JaresCelestialesFuncionales/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/desarrollo de interfaces/tema 2/JasperReport/JaresCelestialesFuncionales/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/desarrollo de interfaces/tema 2/JasperReport/JaresCelestialesFuncionales/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/desarrollo de interfaces/tema 2/JasperReport/JaresCelestialesFuncionales/groovy-all-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/desarrollo de interfaces/tema 2/JasperReport/JaresCelestialesFuncionales/iText-2.1.7.js2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/desarrollo de interfaces/tema 2/JasperReport/JaresCelestialesFuncionales/jasperreports-5.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/desarrollo de interfaces/tema 2/JasperReport/JaresCelestialesFuncionales/jasperreports-fonts-5.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/desarrollo de interfaces/tema 2/JasperReport/JaresCelestialesFuncionales/jasperreports-javaflow-5.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/desarrollo de interfaces/tema 2/JasperReport/JaresCelestialesFuncionales/png-encoder-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/desarrollo de interfaces/tema 2/JasperReport/JaresCelestialesFuncionales/poi-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/desarrollo de interfaces/tema 2/JasperReport/JaresCelestialesFuncionales/servlet-api-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/desarrollo de interfaces/jfreechart-1.0.16/lib/jcommon-1.0.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nose/Desktop/2-DAM/desarrollo de interfaces/jfreechart-1.0.16/lib/jfreechart-1.0.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

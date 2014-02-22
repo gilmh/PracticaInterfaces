@@ -1,0 +1,17 @@
+<frame bounds="200, 200, 450, 250" title="Conexion" locationrelativeto="null" resizable="false">
+    
+    <panel layout="null">
+        
+			<label name="lbServidor" bounds="20, 59, 141, 14" text="Servidor :"/>
+			<label name="lbUsuario" bounds="20, 86, 141, 14" text="Usuario :"/>
+			<label name="lbContrasena" bounds="20, 111, 141, 14" text="Password :"/>
+			
+			<textfield id="txtServidor" name="txtServidor" bounds="171, 57, 261, 20"/>
+			<textfield id="txtUsuario" name="txtUsuario" bounds="171, 84, 261, 20"/>
+			<textfield id="txtContrasena" name="txtPass" bounds="171, 109, 261, 20"/>
+			
+			<button name="btAceptar" bounds="232, 163, 141, 47" action="aceptar" text="ACEPTAR" />
+			<button name="btCancelar" bounds="81, 163, 141, 47" action="cancelar" text="CANCELAR" />
+	</panel>
+    
+</frame>
